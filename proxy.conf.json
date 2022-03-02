@@ -1,6 +1,6 @@
 {
   "/activiti-api": {
-    "target": "YOUR GATEWAY URL GOES HERE",
+    "target": "http://localhost:8080",
     "secure": false,
     "pathRewrite": {
       "^/activiti-api": ""
